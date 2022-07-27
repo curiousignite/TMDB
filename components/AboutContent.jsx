@@ -5,7 +5,7 @@ export default function AboutContent() {
             <section id="about" className="py-6 border-top border-bottom rounded">
                 <div className="row">
                     <div className="col-md-6 my-auto">
-                        <img className="about-img rounded" src="/public/berke.jpeg" alt="movie-img" />
+                        <img className="about-img rounded" src="/berke.jpeg" alt="movie-img" />
                     </div>
                     <div className="col my-auto">
                         <h4>TMDB Front-end Project From Berke Erbağcı</h4>
