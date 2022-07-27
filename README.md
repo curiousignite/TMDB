@@ -11,4 +11,4 @@ Run the development server via cmd:
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Contact: atabayraktar17@gmail.com
+Contact: berkeerbagci@outlook.com
